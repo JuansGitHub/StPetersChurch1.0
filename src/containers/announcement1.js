@@ -1,0 +1,1 @@
+import AnnouncementComponent from '../../components/AnnouncementComponent';
